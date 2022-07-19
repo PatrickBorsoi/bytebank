@@ -7,3 +7,5 @@
 <p> BOAS PRATICAS </p>
 <p> ENCAPISULAMENTO </p>
 <p> PROPRIEDADES </p>
+<p> Método contrutor  </p>
+<p> Membros estáticos </p>
